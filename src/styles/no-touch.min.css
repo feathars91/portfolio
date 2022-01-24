@@ -69,7 +69,7 @@ button:focus {
   width: 70%;
   background: #fff;
   padding: 5%;
-  margin: 10% auto;
+  margin: 5% auto;
   border-bottom: solid 1px #777 !important;
 }
 .effect2:after,
@@ -103,7 +103,7 @@ button:focus {
 }
 .Photo {
   background-color: #fff;
-  background-size: contain;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 .Photo.inverse-dark {
@@ -152,7 +152,7 @@ button:focus {
 }
 .third {
   width: 75%;
-  margin: 10% auto;
+  margin: 5% auto;
   align-items: center;
   padding: 3%;
   justify-content: center;

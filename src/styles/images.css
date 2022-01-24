@@ -1,7 +1,8 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('https://portfolio-abel.s3.amazonaws.com/images/badass.png');
+    
 }
 /* Projects Photo */
 .project1{
@@ -13,11 +14,11 @@
     cursor: none;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('https://portfolio-abel.s3.amazonaws.com/pipeline.png');
     cursor: none;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    background-image: url('https://portfolio-abel.s3.amazonaws.com/images/cognito_dynamodb.png');
     cursor: none;
 }
 .project5{
