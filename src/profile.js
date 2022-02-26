@@ -71,8 +71,22 @@ const projects = [
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "AWS Data Pipeline - Step Functions",
-    skills: ["Lambda, Glue, Redshift, S3"],
+    skills: ["AWS Lambda, Glue, Redshift, S3"],
     url: "https://portfolio-abel.s3.amazonaws.com/pipeline.png",
+  },
+      {
+    // Add image in './styles/images.css' in #project2
+    id: "project5",
+    name: "AWS Connect to Kinesis to Lambda to DynamoDB to Quicksight",
+    skills: ["AWS Kinesis, Lambda, DynamoDB, Quicksight, Athena"],
+    url: "https://portfolio-abel.s3.amazonaws.com/Connect_to_QuickSight.jpg",
+  },
+      {
+    // Add image in './styles/images.css' in #project2
+    id: "project6",
+    name: "S3 Move One Million files in 60 seconds",
+    skills: ["AWS S3, S3 Batch Operations, MS Access"],
+    url: "https://portfolio-abel.s3.amazonaws.com/projects/S3-batch-operations.png",
   },
   {
     // Add image in './styles/images.css' in #project4
@@ -95,6 +109,8 @@ const projects = [
     skills: ["AWS Amplify, NodeJS, Datatables"],
     url: "https://www.soscadministration.org/admin/index",
   },
+
+
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it

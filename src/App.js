@@ -22,9 +22,9 @@ function App() {
     <div className="App">
       <Header />
       <Particles />
-      <About />
       <Works />
-      <Contact />
+      <About />
+      {/* <Contact /> */}
     </div>
   );
 }
