@@ -72,7 +72,7 @@ const projects = [
     id: "project3",
     name: "AWS Data Pipeline - Step Functions",
     skills: ["Lambda, Glue, Redshift, S3"],
-    url: "https://bit.ly/3fSQJXY",
+    url: "https://portfolio-abel.s3.amazonaws.com/pipeline.png",
   },
   {
     // Add image in './styles/images.css' in #project4
