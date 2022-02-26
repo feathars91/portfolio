@@ -6,11 +6,11 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('https://portfolio-abel.s3.amazonaws.com/182-1826643_coming-soon-png.png');
     cursor: none;    
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url('https://portfolio-abel.s3.amazonaws.com/182-1826643_coming-soon-png.png');
     cursor: none;
 }
 .project3{
@@ -27,6 +27,10 @@
 }
 .project6{
     background-image: url('https://portfolio-abel.s3.amazonaws.com/projects/S3-batch-operations.png');
+    cursor: none;
+}
+.project7{
+    background-image: url('https://portfolio-abel.s3.amazonaws.com/yourproject.jpg');
     cursor: none;
 }
 /* Miscelaneous Activities photo */

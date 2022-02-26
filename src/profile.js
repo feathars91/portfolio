@@ -17,10 +17,10 @@ const background = {
 };
 // Write a para about yourself here
 // To update your image, go to './styles/images.css'
-const section2title = "About Me";
+const section2title = "Abelino.Chinchilla@icloud.com";
 const about = {
   paragraph:
-    "My name is Abel and I am based in Houston, Texas, USA. I currently work for Disney as a developer.",
+    "My name is Abel and I am based in Houston, Texas, USA. I currently work for a major corporation but actively open for contract work. -- Abelino.Chinchilla@icloud.com --  281-387-3247" ,
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -107,6 +107,13 @@ const projects = [
     id: "project2",
     name: "Special Olympics Admin Site",
     skills: ["AWS Amplify, NodeJS, Datatables"],
+    url: "https://www.soscadministration.org/admin/index",
+  },
+    {
+    // Add image in './styles/images.css' in #project2
+    id: "project7",
+    name: "Your Project could be next",
+    skills: ["AWS lambda functions, CRUD operations with dynamo dB , CORS-enabled API Gateway and Amazon Cognito authorization. Route 53, API Gateway, EC2, Cloud Formation, IAM, Cloud Watch"],
     url: "https://www.soscadministration.org/admin/index",
   },
 
